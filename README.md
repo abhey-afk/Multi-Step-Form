@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Step Form 📝
 
 A modern, mobile-first multi-step form built with Next.js, TypeScript, and Tailwind CSS, inspired by Duolingo's UI/UX.
@@ -103,3 +104,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with ❤️ by [Abhey Mishra](https://github.com/abhey-afk)
+=======
+# Multi-Step-Form
+>>>>>>> 9de3da2750598deb1a0a11966cfaa933a38062bb
