@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Step Form 📝
 
 A modern, mobile-first multi-step form built with Next.js, TypeScript, and Tailwind CSS, inspired by Duolingo's UI/UX.
